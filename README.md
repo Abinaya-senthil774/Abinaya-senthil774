@@ -1,7 +1,6 @@
 # Hello, I'm Abinaya👋
 
-**Aspiring AI & Robotics Engineer**
-I am an Automation and Robotics Engineer aiming to transition into an AI and Data Science role focused on Intelligent Robotics[cite: 1]. I specialize in bringing intelligence to hardware, combining practical experience in autonomous robotic systems and IoT with deep expertise in machine learning and computer vision
+I am an Automation and Robotics Engineer aiming to transition into an AI and Data Science role focused on Intelligent Robotics. I specialize in bringing intelligence to hardware, combining practical experience in autonomous robotic systems and IoT with deep expertise in machine learning and computer vision
 
 ### 👉 What I'm working on
 - Developing algorithms for the optimal placement of ArUco Tags in complex indoor environments, validated across MATLAB, Webots, and hardware setups
