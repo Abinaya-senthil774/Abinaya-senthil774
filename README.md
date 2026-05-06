@@ -1,4 +1,4 @@
-# Hello, I'm Abinaya👋
+# Hi there, I'm Abinaya👋
 
 I am an Automation and Robotics Engineer aiming to transition into an AI and Data Science role focused on Intelligent Robotics. I specialize in bringing intelligence to hardware, combining practical experience in autonomous robotic systems and IoT with deep expertise in machine learning and computer vision
 
