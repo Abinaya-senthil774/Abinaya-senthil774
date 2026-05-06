@@ -17,7 +17,7 @@ I am an Automation and Robotics Engineer aiming to transition into an AI and Dat
 - **Robotics & Simulation:** ROS2, Gazebo, Webots, Fusion 360, MATLAB
 - **Hardware & IoT:** Arduino, ESP32, Raspberry Pi, MQTT
 
-  ### 👉 Let's Connect
+### 👉 Let's Connect
 - **LinkedIn:** [Abinaya Senthilnath](https://www.linkedin.com/in/abinayasenthilnath/)
 - **Email:** abinayasenthil774@gmail.com
 <!--
