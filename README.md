@@ -8,11 +8,6 @@ I enjoy working on bringing intelligence to hardware, combining practical experi
 - Developing algorithms for the optimal placement of ArUco Tags in complex indoor environments, validated across MATLAB, Webots, and hardware setups
 - Exploring the intersection of memory and visual data through a personal composite artwork project, bridging childhood and present-day likenesses.
 
-
-### 👉 Recent Achievements
-- **DELCON 2025:** Published "Neural Network-Based Acoustic Detection of Red Palm Weevil Infestation in Coconut Trees"
-- **IJCACI 2025:** Published work on a Decision Support System for Mango Farming, achieving 99.3% accuracy in variety classification
-
 ### 👉 Tech Stack & Tools
 - **Languages:** Python, C++
 - **AI/ML Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV
