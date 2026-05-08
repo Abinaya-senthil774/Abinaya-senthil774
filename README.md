@@ -1,11 +1,13 @@
 # Hi there, I'm Abinaya👋
 
-I am an Automation and Robotics Engineer aiming to transition into an AI and Data Science role focused on Intelligent Robotics. I specialize in bringing intelligence to hardware, combining practical experience in autonomous robotic systems and IoT with deep expertise in machine learning and computer vision
+I am an Automation and Robotics Engineer aiming to transition into an AI and Data Science role focused on Intelligent Robotics.
+
+I enjoy working on bringing intelligence to hardware, combining practical experience in autonomous robotic systems and IoT with machine learning and computer vision
 
 ### 👉 What I'm working on
 - Developing algorithms for the optimal placement of ArUco Tags in complex indoor environments, validated across MATLAB, Webots, and hardware setups
 - Exploring the intersection of memory and visual data through a personal composite artwork project, bridging childhood and present-day likenesses.
-- Developing AI systems for precision agriculture, including acoustic detection for pest infestations and explainable AI (XAI) decision support systems
+
 
 ### 👉 Recent Achievements
 - **DELCON 2025:** Published "Neural Network-Based Acoustic Detection of Red Palm Weevil Infestation in Coconut Trees"
