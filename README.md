@@ -5,7 +5,8 @@ I am an Automation and Robotics Engineer aiming to transition into an AI and Dat
 I enjoy working on bringing intelligence to hardware, combining practical experience in autonomous robotic systems and IoT with machine learning and computer vision
 
 ### 👉 What I'm working on
-- Developing algorithms for the optimal placement of ArUco Tags in complex indoor environments, validated across MATLAB, Webots, and hardware setups
+- Developing algorithms for the optimal placement of ArUco Tags in complex indoor environments, validated across MATLAB, Webots, and hardware setups.
+- Working on Design, Kinematic Analysis, and Control of a Modular Delta-Based Parallel Robot.
 - Exploring the intersection of memory and visual data through a personal composite artwork project, bridging childhood and present-day likenesses.
 
 ### 👉 Tech Stack & Tools
