@@ -7,8 +7,7 @@ I enjoy working on bringing intelligence to hardware, combining practical experi
 ### 👉 What I'm working on
 - Developing algorithms for the optimal placement of ArUco Tags in complex indoor environments, validated across MATLAB, Webots, and hardware setups.
 - Working on Design, Kinematic Analysis, and Control of a Modular Delta-Based Parallel Robot.
-- Exploring the intersection of memory and visual data through a personal composite artwork project, bridging childhood and present-day likenesses.
-
+- Developing an AI travel journaling platform that converts travel memories into written diary entries and social-ready content. The app organizes photos and experiences into meaningful stories, timelines, and personalized reflections.
 ### 👉 Tech Stack & Tools
 - **Languages:** Python, C++
 - **AI/ML Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV
